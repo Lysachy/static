@@ -4,9 +4,7 @@ Welcome to my personal corner of the internet! This project serves as a digital 
 
 ### 🚀 Live Preview
 You can explore the website live here:
-**[👉 Click here](https://Lysachy.github.io/MyWebsite/)**
-
----
+**[👉 Click here](https://Lysachy.github.io/static/)**
 
 ### 📖 About This Project
 This website is a personal project developed for **educational purposes** and **personal use**. It showcases my progress in web development and serves as a landing page for my work.
@@ -19,5 +17,3 @@ This website is a personal project developed for **educational purposes** and **
 * **Frontend:** HTML, CSS, JavaScript
 * **Deployment:** GitHub Actions / Git Pages
 
----
-*Created by [Lysachy](https://github.com/Lysachy)*
